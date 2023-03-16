@@ -1,0 +1,19 @@
+https://www.voiptroubleshooter.com/open_speech/american.html
+https://www.cs.columbia.edu/~hgs/audio/harvard.html
+Language = American English
+File = OSR_us_000_0011_8k.wav	
+M/F = F
+Format = 16b PCM
+Sample Rate = 8kHz
+Description = Harvard sentences List 2
+
+The boy was there when the sun rose.
+A rod is used to catch pink salmon.
+The source of the huge river is the clear spring.
+Kick the ball straight and follow through.
+Help the woman get back to her feet.
+A pot of tea helps to pass the evening.
+Smoky fires lack flame and heat.
+The soft cushion broke the man's fall.
+The salt breeze came across from the sea.
+The girl at the booth sold fifty bonds.
