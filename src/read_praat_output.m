@@ -1,5 +1,6 @@
-function [N, dt, F0] = read_praat_output(folder, file_name);
-fileID = fopen([folder 'Sound ' file_name '.txt']);
+function [N, dt, F0] = read_praat_output(folder, file_name)
+%[folder filesep 'Sound ' file_name '.txt']
+fileID = fopen([folder filesep 'Sound ' file_name '.txt']);
 C = textscan(fileID,'%f %f %f', 'TreatAsEmpty',{'NA','na','--undefined--'},'CommentStyle','//');
 fclose(fileID);
 %whos C
