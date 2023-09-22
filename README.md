@@ -25,6 +25,6 @@
 <img src="./graphics/Fig 5.png" alt="Fig 5"> 
 <img src="./graphics/Fig 6.png" alt="Fig 6"> 
 Cepstrum quick reminder:   
-<img src="./graphics/Cepstrum_signal_analysis.png" alt="Cepstrum_signal_analysis"> [wiki img](https://en.wikipedia.org/wiki/Cepstrum#/media/File:Cepstrum_signal_analysis.png)
+<img src="./graphics/Cepstrum_signal_analysis.png" alt="[Cepstrum_signal_analysis](https://en.wikipedia.org/wiki/Cepstrum#/media/File:Cepstrum_signal_analysis.png)">
 
 [cepstrum](https://github.com/etfovac/cepstrum) is maintained by [etfovac](https://github.com/etfovac).
