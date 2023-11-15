@@ -17,8 +17,12 @@
 [References](https://github.com/etfovac/cepstrum/wiki/References)  
 
 ### Screenshots 
+Praat scans the ```test files``` folder for .wav files and saves Timestamps and	```F0 (Pitch) [Hz]``` in .txt.  
+Run ```src/praat_batch.bat```  
+<img src="./graphics/cmd output.png" alt="cmd output">  
+(check Praat data in MATLAB with ```src/test_read_praat_output.m```)  
 
-<img src="./graphics/cmd output.png" alt="cmd output"> 
+Run ```src/main.m```
 <img src="./graphics/Fig 1.png" alt="Fig 1"> 
 <img src="./graphics/Fig 2.png" alt="Fig 2"> 
 <img src="./graphics/Fig 3.png" alt="Fig 3"> 
