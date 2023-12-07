@@ -3,11 +3,12 @@
 
 * Praat: Run Praat script on a test speech signal, log detected Fundamental Frequency F<sub>0</sub> to file as reference. 
 * MATLAB: Pre-Processing: Use Threshold in time domain to segment the voiced speech.  
-* MATLAB: Use Cepstrum processing on voiced speech to detect Pitch i.e. Fundamental Frequency F<sub>0</sub>. Detection done using: Threshold, Median and Non-linear Filtering.  
+* MATLAB: Use Cepstrum processing on voiced speech to detect Pitch i.e. Fundamental Frequency F<sub>0</sub>.
+* Pitch Detection done using: Threshold, Median and Non-linear Filtering.  
 * Compare graphs of resulting F<sub>0</sub> contours detected in MATLAB and Praat as referent tool. 
 
 ### Keywords:  
-> Speech Processing, Cepstrum, Fundamental Frequency, Praat, MATLAB  
+> Speech Processing, Cepstrum, Pitch, Fundamental Frequency, Praat, MATLAB  
 
 ### Table of Contents (Wiki)
 [Wiki Home](https://github.com/etfovac/pitch/wiki)  
