@@ -1,9 +1,9 @@
-# Use Cepstrum to Detect Fundamental Frequency in Speech
+# Detect Fundamental Frequency (Pitch) in speech
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/etfovac/cepstrum/blob/main/LICENSE) 
 
 * Praat: Run Praat script on a test speech signal, log detected Fundamental Frequency F<sub>0</sub> to file as reference. 
 * MATLAB: Pre-Processing: Use Threshold in time domain to segment the voiced speech.  
-* MATLAB: Use Cepstrum processing on voiced speech to detect (using Threshold, Median or Non-linear Filtering) Fundamental Frequency F<sub>0</sub>.  
+* MATLAB: Use Cepstrum processing on voiced speech to detect Pitch i.e. Fundamental Frequency F<sub>0</sub>. Detection done using: Threshold, Median and Non-linear Filtering.  
 * Compare graphs of resulting F<sub>0</sub> contours detected in MATLAB and Praat as referent tool. 
 
 ### Keywords:  
