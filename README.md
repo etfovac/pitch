@@ -1,4 +1,4 @@
-# Cepstrum - Detect Fundamental Frequency in Speech
+# Use Cepstrum to Detect Fundamental Frequency in Speech
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/etfovac/cepstrum/blob/main/LICENSE) 
 
 * Praat: Run Praat script on a test speech signal, log detected Fundamental Frequency F<sub>0</sub> to file as reference. 
