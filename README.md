@@ -1,5 +1,5 @@
 # Detect Fundamental Frequency (Pitch) in speech
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/etfovac/cepstrum/blob/main/LICENSE) 
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/etfovac/pitch/blob/main/LICENSE) 
 
 * Praat: Run Praat script on a test speech signal, log detected Fundamental Frequency F<sub>0</sub> to file as reference. 
 * MATLAB: Pre-Processing: Use Threshold in time domain to segment the voiced speech.  
@@ -10,11 +10,11 @@
 > Speech Processing, Cepstrum, Fundamental Frequency, Praat, MATLAB  
 
 ### Table of Contents (Wiki)
-[Wiki Home](https://github.com/etfovac/cepstrum/wiki)  
-[Overview](https://github.com/etfovac/cepstrum/wiki/Overview)  
-[Notes](https://github.com/etfovac/cepstrum/wiki/Notes)  
-[Examples](https://github.com/etfovac/cepstrum/wiki/Examples)  
-[References](https://github.com/etfovac/cepstrum/wiki/References)  
+[Wiki Home](https://github.com/etfovac/pitch/wiki)  
+[Overview](https://github.com/etfovac/pitch/wiki/Overview)  
+[Notes](https://github.com/etfovac/pitch/wiki/Notes)  
+[Examples](https://github.com/etfovac/pitch/wiki/Examples)  
+[References](https://github.com/etfovac/pitch/wiki/References)  
 
 ### Screenshots 
 Praat scans the ```test files``` folder for .wav files and saves Timestamps and	```F0 (Pitch) [Hz]``` in .txt.  
@@ -32,4 +32,4 @@ Run ```src/main.m```
 Cepstrum quick reminder:   
 <img src="./graphics/Cepstrum_signal_analysis.png" alt="[Cepstrum_signal_analysis](https://en.wikipedia.org/wiki/Cepstrum#/media/File:Cepstrum_signal_analysis.png)">
 
-[cepstrum](https://github.com/etfovac/cepstrum) is maintained by [etfovac](https://github.com/etfovac).
+[pitch](https://github.com/etfovac/pitch) is maintained by [etfovac](https://github.com/etfovac).
